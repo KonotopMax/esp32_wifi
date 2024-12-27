@@ -1,2 +1,3 @@
-# Игнорировать системные файлы Git
-.git/
+build/
+sdkconfig
+sdkconfig.old
